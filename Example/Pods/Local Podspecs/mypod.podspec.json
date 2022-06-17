@@ -1,0 +1,22 @@
+{
+  "name": "mypod",
+  "version": "0.1.0",
+  "summary": "A short description of mypod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/kapilkiwi/mypod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "kapilkiwi": "kapil.teotia@kiwitech.com"
+  },
+  "source": {
+    "git": "https://github.com/kapilkiwi/mypod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "mypod/Classes/**/*"
+}
