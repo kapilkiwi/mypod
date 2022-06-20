@@ -1,0 +1,6 @@
+framework module mypodcontours {
+  umbrella header "mypodcontours-umbrella.h"
+
+  export *
+  module * { export * }
+}

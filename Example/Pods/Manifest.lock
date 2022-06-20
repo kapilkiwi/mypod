@@ -1,16 +1,16 @@
 PODS:
-  - mypod (0.1.0)
+  - mypodcontours (0.1.0)
 
 DEPENDENCIES:
-  - mypod (from `../`)
+  - mypodcontours (from `../`)
 
 EXTERNAL SOURCES:
-  mypod:
+  mypodcontours:
     :path: "../"
 
 SPEC CHECKSUMS:
-  mypod: b545480ad6bcd01ad020c8260dbc5dd135005f3a
+  mypodcontours: bdcc8c79b4e7a79441126f587fe170b9a7b91ee0
 
-PODFILE CHECKSUM: a1fcea4e7ae7210fed52620b78daaa794da05848
+PODFILE CHECKSUM: 341f4afafbf19aeabed0864c7c9bc0e1e06c4cb8
 
 COCOAPODS: 1.11.3

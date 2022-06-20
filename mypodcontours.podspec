@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'mypod'
+  s.name             = 'mypodcontours'
   s.version          = '0.1.0'
   s.summary          = 'this sample pod to scan the check and detect the corner'
   s.swift_version = '5'
@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'mypod/Classes/**/*'
+  s.source_files = 'mypodcontours/Classes/**/*'
   
   # s.resource_bundles = {
   #   'mypod' => ['mypod/Assets/*.png']

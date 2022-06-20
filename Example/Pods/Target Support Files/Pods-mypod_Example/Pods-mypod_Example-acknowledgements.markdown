@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## mypod
+## mypodcontours
 
 Copyright (c) 2022 kapilkiwi <kapil.teotia@kiwitech.com>
 

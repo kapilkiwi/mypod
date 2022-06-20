@@ -1,5 +1,5 @@
 import XCTest
-import mypod
+import mypodcontours
 
 class Tests: XCTestCase {
     

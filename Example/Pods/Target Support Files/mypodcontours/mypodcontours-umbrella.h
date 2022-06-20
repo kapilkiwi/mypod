@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double mypodVersionNumber;
-FOUNDATION_EXPORT const unsigned char mypodVersionString[];
+FOUNDATION_EXPORT double mypodcontoursVersionNumber;
+FOUNDATION_EXPORT const unsigned char mypodcontoursVersionString[];
 
